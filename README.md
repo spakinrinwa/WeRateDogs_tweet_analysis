@@ -52,3 +52,5 @@ Messiness and dirtiness in the data generally prevent easy analysis and errors i
 Summarily, Cleaning actions were performed such as changed data types, and column restructure in some columns. Inbuilt methods such as .replace(), .drop(), .drop_duplicated(), .rename(), etc., were applied.
 
 The entire wrangling act is documented in the [wrangle_act.ipynb](wrangle_act.ipynb)
+
+A report on the data is also provided in the [act_report (1).ipynb](act_report (1).ipynb)
