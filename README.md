@@ -53,4 +53,4 @@ Summarily, Cleaning actions were performed such as changed data types, and colum
 
 The entire wrangling act is documented in the [wrangle_act.ipynb](wrangle_act.ipynb)
 
-A report on the data is also provided in the [act_report (1).ipynb](act_report (1).ipynb)
+A report on the data is also provided in the [act_report.ipynb](act_report.ipynb)
